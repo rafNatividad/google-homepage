@@ -1,0 +1,3 @@
+This project was created to demonstrate the knowledge I have acquired of HTML and CSS. The goal was to try and recreate the Google Homepage to the best of my ability minus the actual functionalty. The design aspect required a lot of extensive research regarding CSS Flexboxes in order to position the elements across the entire page into their appropriate sections. Overall I believe there is still much more to be added onto the page as this is strictly a barebones carbon copy at the moment. 
+
+-Rafael
